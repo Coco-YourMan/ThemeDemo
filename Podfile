@@ -8,5 +8,5 @@ target 'ThemeDemo' do
 pod 'Masonry'
 pod 'MJRefresh'
 pod 'SDWebImage'
-
+pod 'MBProgressHUD'
 end
